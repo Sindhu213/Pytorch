@@ -1,6 +1,9 @@
 
-## Pytorch Sample Code
+# Pytorch Sample Code
 
-This repository contains Pytorch implementations of DL-based applications.
+This repository contains Pytorch implementations of popular DL-based applications.
 
-add version + references + installation guide
+## References
+
+* https://github.com/bentrevett/pytorch-seq2seq
+* https://pytorch.org/docs/stable/index.html
