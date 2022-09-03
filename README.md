@@ -1,7 +1,7 @@
 
 # Pytorch Sample Code
 
-This repository contains Pytorch implementations of popular DL-based applications programmed on Google Colab.
+This repository contains Pytorch implementations of popular DL-based applications created using [Google Colab](https://colab.research.google.com/).
 
 ## References
 
